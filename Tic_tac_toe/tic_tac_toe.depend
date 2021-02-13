@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1595861170 source:c:\users\artkor1\desktop\tic_tac_toe\tic_tac_toe\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1597059516 source:c:\users\artkor1\desktop\tic_tac_toe\main.cpp
+	<iostream>
+	"Game.h"
+
+1597497972 c:\users\artkor1\desktop\tic_tac_toe\game.h
+	<iostream>
+
+1597494755 source:c:\users\artkor1\desktop\tic_tac_toe\game.cpp
+	"Game.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<conio.h>
+	<Windows.h>
+
